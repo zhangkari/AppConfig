@@ -1,4 +1,4 @@
 {
-	"forceUpgrade": true,
-	"message": "内部已知错误，请联系工作人员"
+	"forceUpgrade": false,
+	"message": "内部已知错误，请联系工作人员,错误码 ERR_CONFIG"
 }
